@@ -2,12 +2,12 @@ Official Computer Geek!
 
 ---------------------
 
-[Age] 19
+- Age: 19
+- Project: Infinity ECS
+- Languages: Lua, CS, JS, <...>
 
-[Project] Infinity ECS
-
-[Languages] Lua, CS, JS, <...>
 ---------------------
+
 [Management]: 8.5
 
 [Programming]: 8.5
