@@ -1,12 +1,12 @@
 Official Computer Geek!
 
----------------------
+------------------------------------------
 
 - Age: 19
 - Project: Infinity ECS
 - Languages: Lua, CS, JS, <...>
 
----------------------
+------------------------------------------
 
 - Management: 8.5
 - Programming: 8.5
@@ -16,6 +16,6 @@ Official Computer Geek!
 - Design: 4.5
 - Art, GFX: 4.5
 
----------------------
+------------------------------------------
 
 - Discord: AsynchronousMatrix#4213 (685566749516628033)
