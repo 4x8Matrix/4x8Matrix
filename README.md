@@ -22,7 +22,7 @@ Official Computer Geek!
 
 <p align="center">
     <a href="https://github.com/4x8Matrix">
-        <img src="https://github-readme-stats.vercel.app/api?username=4x8Matrix&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+        <img src="https://github-readme-stats.vercel.app/api?username=4x8Matrix&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=1515155">
     </a>
 </p>
 
