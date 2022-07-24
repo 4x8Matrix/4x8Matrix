@@ -25,5 +25,5 @@ Official Computer Geek!
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/DiscordIcon.png" alt="Discord" width="50" height="40">
+    <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/DiscordIcon.png" alt="Discord" width="40" height="40">
 </p>
