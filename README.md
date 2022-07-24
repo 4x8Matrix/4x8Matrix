@@ -26,13 +26,22 @@ Official Computer Geek!
     </a>
 </p>
 
+<table>
+    <tr>
+        <th>
+            <p align="center">
+                <a href="https://discord.com/users/685566749516628033">
+                    <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Discord.png" alt="Discord" width="40" height="40">
+                </a>
+            </p>
+        </th>
 
-<p align="center">
-    <a href="https://discord.com/users/685566749516628033">
-        <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Discord.png" alt="Discord" width="40" height="40">
-    </a>
-    
-    <a href="https://discord.com/users/685412342414324123">
-        <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Roblox.png" alt="Discord" width="40" height="40">
-    </a>
-</p>
+        <th>
+            <p align="center">
+                <a href="">
+                    <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Roblox.png" alt="Discord" width="40" height="40">
+                </a>
+            </p>
+        </th>
+    </tr>
+</table>
