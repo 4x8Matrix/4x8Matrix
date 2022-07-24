@@ -23,7 +23,5 @@ Official Computer Geek!
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=4x8Matrix&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
     
-    <a href="https://discord.com/users/685566749516628033">
-        <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/DiscordIcon.png" alt="Discord" width="32" height="32">
-    </a>
+    <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/DiscordIcon.png" alt="Discord" width="32" height="32">
 </p>
