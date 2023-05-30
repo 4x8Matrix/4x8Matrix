@@ -14,4 +14,12 @@
     <a href="https://discord.com/users/685566749516628033">
         <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Discord.png" alt="Discord" width="40" height="40">
     </a>
+    <a href="https://www.roblox.com/users/1441032575/profile">
+        <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Roblox.png" alt="Discord" width="35" height="35">
+    </a>
+</p>
+<br/>
+<h2 align="center">📈 Analytics 📉</h2>
+<p align="center">
+    <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2F4x8Matrix" />
 </p>
