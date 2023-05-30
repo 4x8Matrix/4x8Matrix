@@ -9,11 +9,6 @@
     </a>
 </p>
 <br/>
-<h2 align="center">📈 Activity Graph 📈</h2>
-<a href="">
-    <img src="https://activity-graph.herokuapp.com/graph?username=4x8Matrix&theme=react-dark&hide_border=true&area=true&hide_title=true" />
-</a>
-<br/>
 <h2 align="center">👋 Social/Contact Links 👋</h2>
 <p align="center">
     <a href="https://discord.com/users/685566749516628033">
