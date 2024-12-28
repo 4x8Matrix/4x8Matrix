@@ -1,25 +1,30 @@
-<h2 align="center"> 💻 GitHub Profile Stats 💻 </h2>
-<br/>
+# About
+Hi there! 👋
+
+I'm **AsyncMatrix**, a proud *penguin enthusiast* 🐧 and passionate developer! While I adore these tuxedoed birds, my true expertise lies in programming—specifically with Lua and its flavor, Luau.
+
+I’m a **full-time game developer** currently working at [Dubit](https://www.dubit.io/).
+
+### Badges
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/bitbucket.svg" alt="Bitbucket" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/confluence.svg" alt="Confluence" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/csharp.svg" alt="CSharp" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/git.svg" alt="Git" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/github.svg" alt="Github" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/jira.svg" alt="Jira" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/luau.svg" alt="Luau" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/lune.svg" alt="Lune" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/notion.svg" alt="Notion" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/rojo.svg" alt="Rojo" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/rust.svg" alt="Rust" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/vscodium.svg" alt="VSCodium" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/wally.svg" alt="Wally" style="margin: 0; vertical-align: middle; height: 24px;">
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/pesde.svg" alt="Pesde" style="margin: 0; vertical-align: middle; height: 24px;">
+</div>
+
+<br><br>
+
 <p align="center">
-    <a href="">
-        <img alt="4x8Matrix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4x8Matrix&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=b3d7f3&bg_color=0d1117&hide_border=true" height="164px"/>
-    </a>
-    <a href="">
-        <img alt="4x8Matrix's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4x8Matrix&langs_count=8&title_color=ffffff&icon_color=ffffff&text_color=b3d7f3&bg_color=0d1117&hide_border=true" height="164px"/>
-    </a>
-</p>
-<br/>
-<h2 align="center">👋 Social/Contact Links 👋</h2>
-<p align="center">
-    <a href="https://discord.com/users/685566749516628033">
-        <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Discord.png" alt="Discord" width="40" height="40">
-    </a>
-    <a href="https://www.roblox.com/users/1441032575/profile">
-        <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/main/Assets/Roblox.png" alt="Discord" width="35" height="35">
-    </a>
-</p>
-<br/>
-<h2 align="center">📈 Analytics 📉</h2>
-<p align="center">
-    <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2F4x8Matrix" />
+  <img src="https://raw.githubusercontent.com/4x8Matrix/4x8Matrix/refs/heads/main/Assets/penguin-wave.gif">
 </p>
