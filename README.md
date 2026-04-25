@@ -3,7 +3,7 @@ Hi there! 👋
 
 I'm **AsyncMatrix**, a proud *penguin enthusiast* 🐧 and passionate developer! While I adore these tuxedoed birds, my true expertise lies in programming—specifically with Lua and its flavor, Luau.
 
-I’m a **full-time game developer** currently working at [Noctovo](https://noctovo.com/).
+I’m a **full-time game developer** currently looking for work!
 
 ### Badges
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
